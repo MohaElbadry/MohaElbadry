@@ -23,11 +23,7 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=MohaElbadry&&show_icons=true&count_private=true&title_color=72A6FD&icon_color=bb2acf&text_color=38BDAD&bg_color=FFFFFF00) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MohaElbadry&layout=compact&theme=tokyonight&hide=php&langs_count=8&bg_color=FFFFFF00)
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MohaElbadry/MohaElbadry/output/github-contribution-grid-snake-dark.svg">
@@ -35,4 +31,3 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/MohaElbadry/MohaElbadry/output/github-contribution-grid-snake.svg">
 </picture>
 
-![Snake animation](https://github.com/MohaElbadry/MohaElbadry/blob/output/github-contribution-grid-snake.svg)
